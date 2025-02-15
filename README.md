@@ -80,73 +80,92 @@ A equipe **MetaStakers** é composta pelos seguintes membros:
   </table>
 </div>
 
-
 ---
 
 ## <a id="desafios-semanais"></a>🏆 Desafios Semanais  
 
 O **Dojo MultiversX** é estruturado em 12 semanas de aprendizado progressivo. Cada semana representa um novo desafio prático.
 
-### 📌 Semana 1: Rust & Smart Contracts Básico  
+### 📌 Semana 1: Rust & Smart Contracts Básico 
+
+<div align="center">
+  <a href="solutions/week-01/challenge1.md">
+    <img src="./solutions/images/post_medium_challenge1.png" alt="Challenge 1 Banner" width="1500" height="450">
+  </a>
+</div>
+
+
 **Início:** 12/02  
-**Entrega:** 18/02  
-**Objetivo:** Aprender os fundamentos de Rust e criar os primeiros contratos inteligentes.  
+**Entrega:** 18/02 
+
+**Objetivo:** Aprender os fundamentos de Rust e criar os primeiros contratos inteligentes.
 
 [![Detalhes do Desafio 1](https://img.shields.io/badge/Desafio%201-Detalhes%20aqui-blue?style=for-the-badge&logo=markdown)](./solutions/week-01/challenge1.md)
 
 ### 📌 Semana 2: TypeScript & ELIZA Básico  
 **Início:** 19/02  
-**Entrega:** 25/02  
+**Entrega:** 25/02 
+
 **Objetivo:** Introdução ao TypeScript e ao ELIZA Framework para desenvolvimento de aplicações descentralizadas.  
 
 ### 📌 Semana 3: Smart Contracts Intermediário  
 **Início:** 26/02  
 **Entrega:** 03/03  
+
 **Objetivo:** Avançar no desenvolvimento de contratos inteligentes, explorando funcionalidades intermediárias.  
 
 ### 📌 Semana 4: ELIZA Intermediário  
 **Início:** 05/03  
 **Entrega:** 11/03  
+
 **Objetivo:** Aprofundar o uso do ELIZA Framework e implementar soluções mais complexas.  
 
 ### 📌 Semana 5: Smart Contracts Avançado I  
 **Início:** 12/03  
 **Entrega:** 18/03  
+
 **Objetivo:** Desenvolver contratos inteligentes avançados e implementar melhores práticas de segurança.  
 
 ### 📌 Semana 6: ELIZA Avançado I  
 **Início:** 19/03  
 **Entrega:** 25/03  
+
 **Objetivo:** Explorar funcionalidades avançadas do ELIZA Framework para integrar soluções blockchain.  
 
 ### 📌 Semana 7: Smart Contracts Avançado II  
 **Início:** 26/03  
 **Entrega:** 01/04  
+
 **Objetivo:** Concluir o desenvolvimento de contratos inteligentes avançados.  
 
 ### 📌 Semana 8: ELIZA Avançado II  
 **Início:** 02/04  
 **Entrega:** 08/04  
+
 **Objetivo:** Refinar o uso do ELIZA Framework para integração em projetos blockchain.  
 
 ### 📌 Semana 9: Integração I  
 **Início:** 09/04  
 **Entrega:** 15/04  
+
 **Objetivo:** Iniciar a integração das tecnologias desenvolvidas nas semanas anteriores.  
 
 ### 📌 Semana 10: Integração II  
 **Início:** 16/04  
 **Entrega:** 22/04  
+
 **Objetivo:** Continuar a integração e garantir a interoperabilidade das soluções.  
 
 ### 📌 Semana 11: Integração III  
 **Início:** 23/04  
 **Entrega:** 29/04  
+
 **Objetivo:** Refinar e testar a integração completa das tecnologias.  
 
 ### 📌 Semana 12: Integração IV  
 **Início:** 30/04  
 **Entrega:** 06/05  
+
 **Objetivo:** Finalizar a integração e preparar o projeto para apresentação final.  
 
 ---
