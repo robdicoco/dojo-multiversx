@@ -86,7 +86,7 @@ The **Dojo MultiversX** is structured over 12 weeks of progressive learning. Eac
 
 <div align="left">
   <a href="solutions/week-01/challenge1-en.md">
-    <img src="./solutions/images/post_medium_challenge1.png" alt="Challenge 1 Banner" height="450">
+    <img src="./solutions/images/metastackers-dojo-multiversx-week1.png" alt="Challenge 1 Banner">
   </a>
 </div>
 
