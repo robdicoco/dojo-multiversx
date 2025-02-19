@@ -169,6 +169,24 @@ O servidor iniciará na porta **3000** por padrão.
 
 ---
 
+### 📖 **Como criar sua primeira API CRUD com Hyper em Rust**  
+
+<p align="justify">
+🛠️ Confira o guia completo no Medium: </p>
+
+<p align="center">
+  <a href="https://medium.com/@pavusa/build-your-first-crud-api-with-hyper-in-rust-a-step-by-step-guide-e327af658b79" target="_blank">
+    <strong>👉 Build Your First CRUD API with Hyper in Rust: A Step-by-Step Guide</strong>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@pavusa/build-your-first-crud-api-with-hyper-in-rust-a-step-by-step-guide-e327af658b79" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*S7o8S047V7tF61Q4Irgz4w.png" alt="How to Install Rust and xPortal Wallet for MULTIVERSX Development" width="300">
+  </a>
+</p>
+
+
 ## 📜 **Licença**  
 
 Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.  
