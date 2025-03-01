@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Factorial Calculator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        input {
+            padding: 5px;
+            font-size: 16px;
+        }
+        button {
+            padding: 5px 10px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Factorial Calculator</h1>
+    <label for="numberInput">Enter a number (0-12):</label>
+    <input type="number" id="numberInput" min="0" max="12" value="0">
+    <button onclick="calculateFactorial()">Calculate Factorial</button>
+    <div id="result"></div>
+
+    <script>
+        let factorialFunction;
+
+        // Load and instantiate the WebAssembly module
+        fetch('factorial.wasm')
+            .then(response => response.arrayBuffer())
+            .then(bytes => WebAssembly.instantiate(bytes))
+            .then(results => {
+                factorialFunction = results.instance.exports.factorial;
+            })
+            .catch(error => {
+                console.error('Error loading WebAssembly module:', error);
+            });
+
+        // Function to calculate factorial and display the result
+        function calculateFactorial() {
+            const input = document.getElementById('numberInput');
+            const resultDiv = document.getElementById('result');
+
+            // Get the input value
+            const n = parseInt(input.value, 10);
+
+            // Validate the input
+            if (isNaN(n) || n < 0 || n > 12) {
+                resultDiv.textContent = 'Please enter a number between 0 and 12.';
+                return;
+            }
+
+            // Call the WebAssembly factorial function
+            if (factorialFunction) {
+                const result = factorialFunction(n);
+                resultDiv.textContent = `Factorial of ${n} is: ${result}`;
+            } else {
+                resultDiv.textContent = 'WebAssembly module not loaded yet.';
+            }
+        }
+    </script>
+</body>
+</html>
