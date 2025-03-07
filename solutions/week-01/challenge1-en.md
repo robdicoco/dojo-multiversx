@@ -1,6 +1,6 @@
 <div align="left">
   <a href="../../README-en.md">
-    <img src="../images/dojo_multiversx_banner.gif" alt="Challenge 1 Banner">
+    <img src="../images/metastackers-dojo-multiversx-week1.png" alt="Challenge 1 Banner">
   </a>
 </div>
 
@@ -107,7 +107,7 @@ CRUD Hyper is a web application that implements **Create, Read, Update, Delete**
 Before installing the project, ensure you have:  
 
 - **Rust 1.60+** installed ([Install Rust](https://www.rust-lang.org/))  
-- **Cargo**, Rust’s package manager  
+- **Cargo**, Rust's package manager  
 
 ### 📦 **Installation & Usage**  
 
@@ -161,9 +161,30 @@ The server will start on port **3000** by default.
 
 ### 👥 **MetaStakers Team**  
 
-- [@robdicoco](https://github.com/robdicoco)  
-- [@alfatektecnologia](https://github.com/alfatektecnologia)  
-- [@lucenfort](https://github.com/lucenfort)  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/robdicoco">
+          <img src="https://avatars.githubusercontent.com/u/24412372?v=4" width="100px" alt="Roberto Pavusa Junior"/><br>
+          <sub><b>Rob DC</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/alfatektecnologia">
+          <img src="https://avatars.githubusercontent.com/u/58711434?v=4" width="100px" alt="Emanoel de Oliveira"/><br>
+          <sub><b>Emanoel</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/lucenfort">
+          <img src="https://avatars.githubusercontent.com/u/55037889?v=4" width="100px" alt="Luciano"/><br>
+          <sub><b>Luciano</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -173,4 +194,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-🔹 *Developed with 💙 and Rust for the Dojo MultiversX* 🔹  
+**Project developed by the MetaStakers team for the Dojo MultiversX program - 2025**
