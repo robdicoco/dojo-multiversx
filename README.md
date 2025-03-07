@@ -103,17 +103,33 @@ O **Dojo MultiversX** é estruturado em 12 semanas de aprendizado progressivo. C
 
 ### 📌 Semana 2: TypeScript & ELIZA Básico
 
+<div align="left">
+  <a href="solutions/week-02/challenge2.md">
+    <img src="./solutions/images/metastackers-dojo-multiversx-week2.png" alt="Challenge 2 Banner">
+  </a>
+</div>
+
 **Início:** 19/02  
 **Entrega:** 25/02
 
 **Objetivo:** Introdução ao TypeScript e ao ELIZA Framework para desenvolvimento de aplicações descentralizadas.
 
-### 📌 Semana 3: Smart Contracts Intermediário
+[![Detalhes do Desafio 2](https://img.shields.io/badge/Desafio%202-Detalhes%20aqui-blue?style=for-the-badge&logo=markdown)](./solutions/week-02/challenge2.md)
+
+### 📌 Semana 3: Introdução ao WebAssembly
+
+<div align="left">
+  <a href="solutions/week-03/challenge3.md">
+    <img src="./solutions/images/metastackers-dojo-multiversx-week3.png" alt="Challenge 3 Banner">
+  </a>
+</div>
 
 **Início:** 26/02  
 **Entrega:** 03/03
 
-**Objetivo:** Avançar no desenvolvimento de contratos inteligentes, explorando funcionalidades intermediárias.
+**Objetivo:** Criar binários WebAssembly e executá-los em diferentes runtimes.
+
+[![Detalhes do Desafio 3](https://img.shields.io/badge/Desafio%203-Detalhes%20aqui-blue?style=for-the-badge&logo=markdown)](./solutions/week-03/challenge3.md)
 
 ### 📌 Semana 4: ELIZA Intermediário
 
@@ -186,10 +202,10 @@ O **Dojo MultiversX** é estruturado em 12 semanas de aprendizado progressivo. C
 
 |    **Semana**    |               **Tema**               |                   **Descrição**                    | **Início** | **Entrega** |       **Status**       |
 | :--------------: | :----------------------------------: | :------------------------------------------------: | :--------: | :---------: | :--------------------: |
-| ⚪ **Semana 01** | 🛠 **Rust & Smart Contracts Básico**  |     Fundamentos de Rust e primeiros contratos.     | **12/02**  |  **18/02**  |   🔄 _Em andamento_    |
-| 🟡 **Semana 02** |   🖥 **TypeScript & ELIZA Básico**    |    Introdução ao TypeScript e ELIZA Framework.     | **19/02**  |  **25/02**  | ⏳ _Aguardando início_ |
-| 🟢 **Semana 03** | 🔐 **Smart Contracts Intermediário** |    Desenvolvimento intermediário de contratos.     | **26/02**  |  **03/03**  | ⏳ _Aguardando início_ |
-| 🟣 **Semana 04** |      📦 **ELIZA Intermediário**      | Implementação de soluções mais complexas no ELIZA. | **05/03**  |  **11/03**  | ⏳ _Aguardando início_ |
+| ⚪ **Semana 01** | 🛠 **Rust & Smart Contracts Básico**  |     Fundamentos de Rust e primeiros contratos.     | **12/02**  |  **18/02**  |   🎯 _Concluído_   |
+| 🟡 **Semana 02** |   🖥 **TypeScript & ELIZA Básico**    |    Introdução ao TypeScript e ELIZA Framework.     | **19/02**  |  **25/02**  | 🎯 _Concluído_  |
+| 🟢 **Semana 03** | 🔐 **Introdução ao WebAssembly** |    Criar binários WebAssembly e executá-los em diferentes runtimes.     | **26/02**  |  **03/03**  | 🎯 _Concluído_  |
+| 🟣 **Semana 04** |      📦 **ELIZA Intermediário**      | Implementação de soluções mais complexas no ELIZA. | **05/03**  |  **11/03**  | 🔄 _Em andamento_ |
 | 🟠 **Semana 05** |  🔐 **Smart Contracts Avançado I**   |      Desenvolvimento de contratos avançados.       | **12/03**  |  **18/03**  | ⏳ _Aguardando início_ |
 | 🔴 **Semana 06** |       📦 **ELIZA Avançado I**        |   Funcionalidades avançadas do ELIZA Framework.    | **19/03**  |  **25/03**  | ⏳ _Aguardando início_ |
 | 🟤 **Semana 07** |  🔐 **Smart Contracts Avançado II**  | Finalização dos contratos inteligentes avançados.  | **26/03**  |  **01/04**  | ⏳ _Aguardando início_ |

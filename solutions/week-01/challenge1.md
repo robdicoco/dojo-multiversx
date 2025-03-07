@@ -1,6 +1,6 @@
 <div align="left">
   <a href="../../README.md">
-    <img src="../images/dojo_multiversx_banner.gif" alt="Challenge 1 Banner">
+    <img src="../images/metastackers-dojo-multiversx-week1.png" alt="Challenge 1 Banner">
   </a>
 </div>
 
@@ -163,9 +163,30 @@ O servidor iniciará na porta **3000** por padrão.
 
 ### 👥 **Equipe MetaStakers**  
 
-- [@robdicoco](https://github.com/robdicoco)  
-- [@alfatektecnologia](https://github.com/alfatektecnologia)  
-- [@lucenfort](https://github.com/lucenfort)  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/robdicoco">
+          <img src="https://avatars.githubusercontent.com/u/24412372?v=4" width="100px" alt="Roberto Pavusa Junior"/><br>
+          <sub><b>Rob DC</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/alfatektecnologia">
+          <img src="https://avatars.githubusercontent.com/u/58711434?v=4" width="100px" alt="Emanoel de Oliveira"/><br>
+          <sub><b>Emanoel</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/lucenfort">
+          <img src="https://avatars.githubusercontent.com/u/55037889?v=4" width="100px" alt="Luciano"/><br>
+          <sub><b>Luciano</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -193,4 +214,4 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 
 ---
 
-🔹 *Desenvolvido com 💙 e Rust para o Dojo MultiversX* 🔹  
+**Projeto desenvolvido pela equipe MetaStakers para o programa Dojo MultiversX - 2025**
