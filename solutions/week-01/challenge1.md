@@ -214,4 +214,4 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 
 ---
 
-**Projeto desenvolvido pela equipe MetaStakers para o programa Dojo MultiversX - 2025**
+<p align="center"> 🚀 Desenvolvido durante o programa <strong>Dojo MultiversX ❎</strong></p>
