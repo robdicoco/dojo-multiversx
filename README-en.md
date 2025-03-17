@@ -129,10 +129,18 @@ The **Dojo MultiversX** is structured over 12 weeks of progressive learning. Eac
 
 ### 📌 Week 4: Intermediate ELIZA
 
-**Start:** 03/05  
-**Submission:** 03/11
+<div align="left">
+  <a href="solutions/week-04/challenge4-en.md">
+    <img src="./solutions/images/metastackers-dojo-multiversx-week4.png" alt="Challenge 4 Banner">
+  </a>
+</div>
 
-**Goal:** Deepen the use of the ELIZA Framework and implement more complex solutions.
+**Start:** 03/05  
+**Submission:** 03/12
+
+**Goal:** Develop an AI agent that interacts with the MultiversX ecosystem, seeking to solve real community problems.
+
+[![Challenge 4 Details](https://img.shields.io/badge/Challenge%204-Details%20here-blue?style=for-the-badge&logo=markdown)](./solutions/week-04/challenge4-en.md)
 
 ### 📌 Week 5: Advanced Smart Contracts I
 
@@ -201,8 +209,8 @@ The **Dojo MultiversX** is structured over 12 weeks of progressive learning. Eac
 | ⚪ **Week 01** | 🛠 **Rust & Basic Smart Contracts**  |        Fundamentals of Rust and first contracts.         | **02/12** |   **02/18**    |  🎯 _Completed_  |
 | 🟡 **Week 02** |   🖥 **TypeScript & Basic ELIZA**    |     Introduction to TypeScript and ELIZA Framework.      | **02/19** |   **02/25**    | 🎯 _Completed_ |
 | 🟢 **Week 03** | 🔐 **Introduction to WebAssembly** |            Create WebAssembly binaries and run them in different runtimes.            | **02/26** |   **03/03**    | 🎯 _Completed_ |
-| 🟣 **Week 04** |      📦 **Intermediate ELIZA**      |     Implementation of more complex ELIZA solutions.      | **03/05** |   **03/11**    | 🔄 _In progress_ |
-| 🟠 **Week 05** |  🔐 **Advanced Smart Contracts I**  |            Development of advanced contracts.            | **03/12** |   **03/18**    | ⏳ _Pending start_ |
+| 🟣 **Week 04** |      📦 **Intermediate ELIZA**      | Develop an AI agent that interacts with the MultiversX ecosystem.  | **03/05** |   **03/12**    | 🎯 _Completed_ |
+| 🟠 **Week 05** |  🔐 **Advanced Smart Contracts I**  |            Development of advanced contracts.            | **03/12** |   **03/18**    | 🔄 _In progress_ |
 | 🔴 **Week 06** |       📦 **Advanced ELIZA I**       |     Advanced functionalities of the ELIZA Framework.     | **03/19** |   **03/25**    | ⏳ _Pending start_ |
 | 🟤 **Week 07** | 🔐 **Advanced Smart Contracts II**  |         Completion of advanced smart contracts.          | **03/26** |   **04/01**    | ⏳ _Pending start_ |
 | ⚫ **Week 08** |      📦 **Advanced ELIZA II**       |        Advanced integration with ELIZA Framework.        | **04/02** |   **04/08**    | ⏳ _Pending start_ |
@@ -221,4 +229,4 @@ This project is licensed under the **MIT License**. Check the [LICENSE](./LICENS
 
 ---
 
-<p align="center">🌟 Developed during the <strong>Dojo MultiversX</strong> program</p>
+<p align="center"> 🚀 Developed during the <strong>Dojo MultiversX ❎</strong> program</p>
